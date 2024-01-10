@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 app.listen(PORT, () => {
-  console.log(`App listening at http://localhost:${PORT}`)
+  console.log(`App listening at ${PORT}`)
 });
 
 app.get("/notes", (req, res) =>
