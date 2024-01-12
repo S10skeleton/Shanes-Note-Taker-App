@@ -19,6 +19,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Description
 
+A simple web application for storing your notes that can be accessed anywhere from the internet. 
 ## Links to repos and deployment
 
+Repo
+https://github.com/S10skeleton/Shanes-Note-Taker-App
+
+Deployment
+https://fierce-stream-84175-31658b8933a4.herokuapp.com/
+
 ## Screen Shot
+
+![screenshot](./public/assets/Screenshot.png)
